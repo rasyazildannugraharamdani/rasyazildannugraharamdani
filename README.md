@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Dwi Andina! 🎉
+# 👋 Halo, Saya Rasya Zildan! 🎉
 
 ## 📋 Informasi Pribadi
-- **Nama**: Dwi Andina Putri
-- **NIM**: 230605110157
-- **Kelas Praktikum**: B
+- **Nama**: Rasya Zildan Nugraha Ramdani
+- **NIM**: 250605110072
+- **Kelas Praktikum**: f
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
